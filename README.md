@@ -18,3 +18,4 @@ npm install sqlite sqlite3 # 数据库
 ## 运行
 
 * npm start
+* npm dev
